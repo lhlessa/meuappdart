@@ -8,7 +8,8 @@
             "name": "meuapp",
             "request": "launch",
             "type": "dart",
-            "program": "bin/meuapp.dart"
+            "program": "bin/meuapp.dart",
+            "console": "terminal"
         }
     ]
 }
